@@ -4,7 +4,7 @@
 <br>
 <img src="https://github.com/hosseinkhodaparast/class_database_week5/blob/main/Diagram.png" alt="">
 <br>
-<h3>diagram & SQL طراحی شده زمینه شده است ولی رعایت نکات زیر نیز میتواند موثر باشد</h3>
+<h3 dir="rtl">diagram & SQL طراحی شده زمینه شده است ولی رعایت نکات زیر نیز میتواند موثر باشد</h3>
 
 1. انتخاب سیستم مدیریت پایگاه داده (DBMS) مناسب:
 
